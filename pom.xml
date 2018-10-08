@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>test.MWAR-294</groupId>
-  <artifactId>parent</artifactId>
+  <artifactId>MWAR-294-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
